@@ -1,0 +1,17 @@
+{
+    "name": "wanjema/wanjema-pwa",
+    "description": "A package to make your laravel app a PWA",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Wanjema\\WanjemaPwa\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "John Wanjema",
+            "email": "jonwanjema@gmail.com"
+        }
+    ],
+    "require": {}
+}
